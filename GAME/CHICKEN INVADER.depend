@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1618331204 source:c:\users\admin\desktop\chicken invader\commonfunc.cpp
+	"CommonFunc.h"
+
+1618331187 c:\users\admin\desktop\chicken invader\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1618331764 source:c:\users\admin\desktop\chicken invader\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"PlaneObject.h"
+	"ChickenObject.h"
+	"PowerPlane.h"
+	"TextObject.h"
+	"MenuObject.h"
+
+1618238142 c:\users\admin\desktop\chicken invader\baseobject.h
+	"CommonFunc.h"
+
+1618242193 source:c:\users\admin\desktop\chicken invader\baseobject.cpp
+	"BaseObject.h"
+
+1618242887 source:c:\users\admin\desktop\chicken invader\bulletobject.cpp
+	"BulletObject.h"
+
+1618241882 c:\users\admin\desktop\chicken invader\bulletobject.h
+	"BaseObject.h"
+
+1618245845 c:\users\admin\desktop\chicken invader\planeobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618280298 source:c:\users\admin\desktop\chicken invader\planeobject.cpp
+	"PlaneObject.h"
+
+1618281349 source:c:\users\admin\desktop\chicken invader\chickenobject.cpp
+	"ChickenObject.h"
+
+1618279820 c:\users\admin\desktop\chicken invader\chickenobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618274920 c:\users\admin\desktop\chicken invader\powerplane.h
+	"BaseObject.h"
+
+1618275207 source:c:\users\admin\desktop\chicken invader\powerplane.cpp
+	"PowerPlane.h"
+
+1618331416 source:c:\users\admin\desktop\chicken invader\textobject.cpp
+	"TextObject.h"
+
+1618331641 c:\users\admin\desktop\chicken invader\textobject.h
+	"BaseObject.h"
+
+1618330245 source:c:\users\admin\desktop\chicken invader\menuobject.cpp
+	"MenuObject.h"
+
+1618330245 c:\users\admin\desktop\chicken invader\menuobject.h
+	"BaseObject.h"
+	"TextObject.h"
+
+1618242193 source:c:\users\admin\desktop\chicken\baseobject.cpp
+	"BaseObject.h"
+
+1618238142 c:\users\admin\desktop\chicken\baseobject.h
+	"CommonFunc.h"
+
+1618769875 c:\users\admin\desktop\chicken\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1618242887 source:c:\users\admin\desktop\chicken\bulletobject.cpp
+	"BulletObject.h"
+
+1618241882 c:\users\admin\desktop\chicken\bulletobject.h
+	"BaseObject.h"
+
+1618769604 source:c:\users\admin\desktop\chicken\chickenobject.cpp
+	"ChickenObject.h"
+
+1618769604 c:\users\admin\desktop\chicken\chickenobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618331204 source:c:\users\admin\desktop\chicken\commonfunc.cpp
+	"CommonFunc.h"
+
+1618751487 source:c:\users\admin\desktop\chicken\planeobject.cpp
+	"PlaneObject.h"
+
+1618751487 c:\users\admin\desktop\chicken\planeobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618763522 source:c:\users\admin\desktop\chicken\powerplane.cpp
+	"PowerPlane.h"
+
+1618763521 c:\users\admin\desktop\chicken\powerplane.h
+	"BaseObject.h"
+
+1618331416 source:c:\users\admin\desktop\chicken\textobject.cpp
+	"TextObject.h"
+
+1618331641 c:\users\admin\desktop\chicken\textobject.h
+	"BaseObject.h"
+
+1618769377 source:c:\users\admin\desktop\chicken\menuobject.cpp
+	"MenuObject.h"
+
+1618768257 c:\users\admin\desktop\chicken\menuobject.h
+	"BaseObject.h"
+	"TextObject.h"
+
+1618768257 source:c:\users\admin\desktop\chicken\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"PlaneObject.h"
+	"ChickenObject.h"
+	"PowerPlane.h"
+	"TextObject.h"
+	"MenuObject.h"
+
+1618242193 source:c:\users\admin\desktop\game\baseobject.cpp
+	"BaseObject.h"
+
+1618238142 c:\users\admin\desktop\game\baseobject.h
+	"CommonFunc.h"
+
+1619147818 c:\users\admin\desktop\game\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1618242887 source:c:\users\admin\desktop\game\bulletobject.cpp
+	"BulletObject.h"
+
+1618241882 c:\users\admin\desktop\game\bulletobject.h
+	"BaseObject.h"
+
+1619191097 source:c:\users\admin\desktop\game\commonfunc.cpp
+	"CommonFunc.h"
+
+1619512397 source:c:\users\admin\desktop\game\menuobject.cpp
+	"MenuObject.h"
+
+1619512018 c:\users\admin\desktop\game\menuobject.h
+	"BaseObject.h"
+	"TextObject.h"
+
+1618331641 c:\users\admin\desktop\game\textobject.h
+	"BaseObject.h"
+
+1619198683 source:c:\users\admin\desktop\game\planeobject.cpp
+	"PlaneObject.h"
+
+1619147902 c:\users\admin\desktop\game\planeobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618763522 source:c:\users\admin\desktop\game\powerplane.cpp
+	"PowerPlane.h"
+
+1618763521 c:\users\admin\desktop\game\powerplane.h
+	"BaseObject.h"
+
+1618846268 source:c:\users\admin\desktop\game\textobject.cpp
+	"TextObject.h"
+
+1618844820 source:c:\users\admin\desktop\game\chickenobject.cpp
+	"ChickenObject.h"
+
+1618769604 c:\users\admin\desktop\game\chickenobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+
+1619512018 source:c:\users\admin\desktop\game\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"PlaneObject.h"
+	"ChickenObject.h"
+	"PowerPlane.h"
+	"TextObject.h"
+	"MenuObject.h"
+	<Windows.h>
+
+1619622998 source:c:\users\admin\desktop\chicken invader\game\baseobject.cpp
+	"BaseObject.h"
+
+1619625321 c:\users\admin\desktop\chicken invader\game\baseobject.h
+	"HeadFunc.h"
+
+1619622998 c:\users\admin\desktop\chicken invader\game\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1619579904 source:c:\users\admin\desktop\chicken invader\game\bulletobject.cpp
+	"BulletObject.h"
+
+1619579676 c:\users\admin\desktop\chicken invader\game\bulletobject.h
+	"BaseObject.h"
+
+1619625762 source:c:\users\admin\desktop\chicken invader\game\chickenobject.cpp
+	"ChickenObject.h"
+
+1619624978 c:\users\admin\desktop\chicken invader\game\chickenobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+
+1619620814 source:c:\users\admin\desktop\chicken invader\game\commonfunc.cpp
+	"CommonFunc.h"
+
+1619625522 source:c:\users\admin\desktop\chicken invader\game\main.cpp
+	"HeadFunc.h"
+	"BaseObject.h"
+	"PlaneObject.h"
+	"ChickenObject.h"
+	"PowerPlane.h"
+	"TextObject.h"
+	"MenuObject.h"
+	<Windows.h>
+
+1619622998 c:\users\admin\desktop\chicken invader\game\planeobject.h
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618763521 c:\users\admin\desktop\chicken invader\game\powerplane.h
+	"BaseObject.h"
+
+1619513444 c:\users\admin\desktop\chicken invader\game\textobject.h
+	"BaseObject.h"
+
+1619512018 c:\users\admin\desktop\chicken invader\game\menuobject.h
+	"BaseObject.h"
+	"TextObject.h"
+
+1619625423 source:c:\users\admin\desktop\chicken invader\game\menuobject.cpp
+	"MenuObject.h"
+
+1619622998 source:c:\users\admin\desktop\chicken invader\game\planeobject.cpp
+	"PlaneObject.h"
+
+1618763522 source:c:\users\admin\desktop\chicken invader\game\powerplane.cpp
+	"PowerPlane.h"
+
+1619513444 source:c:\users\admin\desktop\chicken invader\game\textobject.cpp
+	"TextObject.h"
+
+1619625465 c:\users\admin\desktop\chicken invader\game\headfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1619625465 source:c:\users\admin\desktop\chicken invader\game\headfunc.cpp
+	"HeadFunc.h"
+
