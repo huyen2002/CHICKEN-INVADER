@@ -9,7 +9,7 @@ Game với đối tượng chính là máy bay, có nhiệm vụ bắn trúng g�
 ![](https://i.imgur.com/1VGEboL.png)
 
 
-Video Demo Game: [link](https://drive.google.com/file/d/15Vdd2DIdN8eru0GCfBvXQLSiFG-3EHrN/view?usp=sharing)
+Video Demo Game: [link](https://drive.google.com/file/d/1uDBvxU25mi49RsMlIyEL--eLas7ulxQJ/view?usp=sharing)
 * **Cài đặt**
 
  Download các thư viện hỗ trợ:
